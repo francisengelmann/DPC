@@ -6,9 +6,9 @@ International Conference on Robotics and Automation (ICRA), 2020.
 ## Installation
 
 The code is tested with
-* TensorFLow 2.3
-* cuda 10.1
-* cudnn 7.6.5
+* TensorFlow 2.3
+* CUDA 10.1
+* cuDNN 7.6.5
 
 
 ```
