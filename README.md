@@ -5,7 +5,7 @@ International Conference on Robotics and Automation (ICRA), 2020.
 
 ## Installation
 
-The code is tested under Ubunut with 
+The code is tested under Ubuntu with 
 * TensorFlow 2.3
 * CUDA 10.1
 * cuDNN 7.6.5
